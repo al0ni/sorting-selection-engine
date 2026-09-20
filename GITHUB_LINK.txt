@@ -1,0 +1,5 @@
+GitHub repository:
+https://github.com/al0ni/sorting-selection-engine
+
+Release v1.0:
+https://github.com/al0ni/sorting-selection-engine/releases/tag/v1.0
